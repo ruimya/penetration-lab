@@ -48,7 +48,7 @@ Install Instructions:
 Corrosponding walkthrough video tutorials and explainations can be found at:
 
 1. http://dummy2dummies.blogspot.com 
-2. http://www.securitytube.net/user/Audi
+2. http://www.sqlilab_securitytube.net/user/Audi
 3. https://www.facebook.com/sqlilabs
 
 you can also find the read along book at https://leanpub.com/SQLI-LABS, work is under process.

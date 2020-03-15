@@ -5,7 +5,7 @@ $dbuser ='root';
 $dbpass ='root';
 $host = 'localhost';
 
-$dbname ="security";
-$dbname1 = "challenges";
+$dbname ="sqlilab_security";
+$dbname1 = "sqlilab_challenges";
 ?>
 

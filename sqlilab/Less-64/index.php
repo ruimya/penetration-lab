@@ -94,7 +94,7 @@ if(!isset($_POST['answer_key']))
 		
 			
 			// Querry DB to get the correct output
-			$sql="SELECT * FROM security.users WHERE id=(($id)) LIMIT 0,1";
+			$sql="SELECT * FROM sqlilab_security.users WHERE id=(($id)) LIMIT 0,1";
 			$result=mysql_query($sql);
 			$row = mysql_fetch_array($result);
 
